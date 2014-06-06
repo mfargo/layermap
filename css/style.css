@@ -1,0 +1,29 @@
+@font-face {
+	font-family: Lato;
+	src: url(Lato/Lato-Regular.ttf);
+	font-weight:400;
+}
+
+body { margin:0; padding:0; }
+html {
+	font-family: 'Lato', sans-serif;
+}
+
+#loading {
+	position:absolute;
+	left:0;
+	top:0;
+	padding:20px;
+	color:#FFF;
+	z-index:9999;
+	background-color:rgba(0, 0, 0, 0.1);
+}
+#drop {
+	position:absolute;
+	right:0;
+	top:0;
+	padding:20px;
+	color:#FFF;
+	z-index:9999;
+	background-color:rgba(0, 0, 0, 0.1);
+}

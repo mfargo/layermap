@@ -1,0 +1,91 @@
+{"maps": [
+
+  {
+  "name": "pdx",
+  "bounds": [45.4939,-122.7026,45.5498,-122.6227],
+  "layers": [
+     {
+     "name": "water",
+     "color": "13a89e"
+     },
+     {
+     "name": "streets",
+     "color": "b8c6a5"
+     },
+     {
+     "name": "buildings",
+     "color": "2a994c"
+     },
+     {
+     "name": "byways",
+     "color": "9a5571"
+     },
+     {
+     "name": "freeways",
+     "color": "e25942"
+     },
+     {
+     "name": "highways",
+     "color": "f6cb51"
+     },
+     {
+     "name": "bridges",
+     "color": "f2e7da"
+     }
+    ],
+    "annotations": [
+        {
+            "name":"home",
+            "lat":45.548448,
+            "lng":-122.674276
+        }
+    ]
+  },
+
+  {
+  "name": "shibuya",
+  "bounds": [35.6333,139.6692,35.6824,139.7297],
+  "layers": [
+     {
+     "name": "parks",
+     "color": "9a5571"
+     },
+     {
+     "name": "walkways",
+     "color": "f2e7da"
+     },
+     {
+     "name": "trains",
+     "color": "13a89e"
+     },
+     {
+     "name": "buildings",
+     "color": "2a994c"
+     },
+     {
+     "name": "streets",
+     "color": "b8c6a5"
+     },
+     {
+     "name": "freeways",
+     "color": "e25942"
+     },
+     {
+     "name": "highways",
+     "color": "f6cb51"
+     }
+    ],
+    "annotations": [
+        {
+            "name":"home",
+            "lat":35.662682,
+            "lng":139.694946
+        },
+        {
+            "name":"party",
+            "lat":35.648448,
+            "lng":139.700576
+        }
+    ]
+  }
+]}
